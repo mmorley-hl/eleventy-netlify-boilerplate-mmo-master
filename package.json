@@ -65,6 +65,8 @@
     "clean-css": "^4.2.1",
     "html-minifier": "^4.0.0",
     "uglify-es": "^3.3.9",
+    "gsap": "^3.5.1",
+    "locomotive-scroll": "*",
     "p5": "^1.1.9"
   }
 }

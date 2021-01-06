@@ -1,5 +1,7 @@
-import '../css/index.scss';
+import '../css/index.scss'
 import p5 from 'p5'
+import { gsap } from 'gsap'
+import { ScrollTrigger } from 'gsap/ScrollTrigger'
 
 // eslint-disable-next-line no-console
 console.log('Hello again');
@@ -59,3 +61,5 @@ if (p5test) {
 
 	let myp5 = new p5(sketch)
 }
+
+import './_locomotive-images'
