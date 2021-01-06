@@ -9,9 +9,10 @@
     {% include "assets/css/inline.css" %}
   {% endset %}
   <style>{{ css | cssmin | safe }}</style>
-  <link rel="stylesheet" href="_includes/assets/compiled-assets/main.css" />
+  <link rel="stylesheet" href="../_includes/assets/compiled-assets/main.css" />
   {% set js %}
     {% include "assets/js/inline.js" %}
   {% endset %}
   <script>{{ js | jsmin | safe }}</script>
+
 </head>
