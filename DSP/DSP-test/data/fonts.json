@@ -1,0 +1,40 @@
+{
+  "dsp_spec_version": "0.0.1",
+  "last_updated_by": "",
+  "last_updated": "2021-01-07T09:18:19.526Z",
+  "entities": [
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "fe0a7e09-8c97-433e-a55c-27be14bea28d",
+      "name": "Big Caslon – 140 pt",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/43e05f20-f478-45b4-6288-74035bb5d4e1",
+        "id": "9ab94848-08cb-40d6-9954-69b25a96fd49",
+        "last_sync": "2021-01-07T09:18:19.525Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "fe0a7e09-8c97-433e-a55c-27be14bea28d",
+          "type": "custom",
+          "value": "Big Caslon",
+          "key": "family"
+        },
+        {
+          "id": "fe0a7e09-8c97-433e-a55c-27be14bea28d",
+          "type": "custom",
+          "value": "Medium",
+          "key": "weight"
+        },
+        {
+          "id": "fe0a7e09-8c97-433e-a55c-27be14bea28d",
+          "type": "size",
+          "value": "140",
+          "key": "size"
+        }
+      ]
+    }
+  ]
+}

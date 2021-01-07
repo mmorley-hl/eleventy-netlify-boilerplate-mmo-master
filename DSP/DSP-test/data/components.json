@@ -1,0 +1,187 @@
+{
+  "dsp_spec_version": "0.0.1",
+  "last_updated_by": "",
+  "last_updated": "2021-01-07T09:18:19.526Z",
+  "entities": [
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "caac0e46-a3dd-406d-85c1-8b44ed0eae44",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Arrow Right White",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/43e05f20-f478-45b4-6288-74035bb5d4e1",
+        "id": "af14f2a8-fca7-44cc-9dc1-b7ca5cf578a8",
+        "last_sync": "2021-01-07T09:18:19.525Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "1fbc992f-da1b-4fe6-8349-9e8f2502c013",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Functional Motion Button",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/43e05f20-f478-45b4-6288-74035bb5d4e1",
+        "id": "a4ebd10c-836a-4ff2-953b-e714b4a5093c",
+        "last_sync": "2021-01-07T09:18:19.525Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "2fd616fa-d4a8-49e5-a343-4fbcfc4fab0f",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Komponente 1",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/43e05f20-f478-45b4-6288-74035bb5d4e1",
+        "id": "e7decd82-7711-49be-ad0b-9a8a16f24f3f",
+        "last_sync": "2021-01-07T09:18:19.525Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "f57ff03c-b8be-4bbd-824f-c883000ae6c6",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Komponente 10",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/43e05f20-f478-45b4-6288-74035bb5d4e1",
+        "id": "3208c0f3-ed74-42f4-9792-900c60437248",
+        "last_sync": "2021-01-07T09:18:19.525Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "7fe01a44-fecf-4fec-b5be-4a4b4b736fc4",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Komponente 10",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/43e05f20-f478-45b4-6288-74035bb5d4e1",
+        "id": "3cb5f916-85a6-4e29-8dc2-94399efd1edf",
+        "last_sync": "2021-01-07T09:18:19.525Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "dd32b215-a857-4ebe-ab23-6ef01e06f3b4",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Komponente 11",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/43e05f20-f478-45b4-6288-74035bb5d4e1",
+        "id": "f1ab7174-5432-4092-964d-ad6dd513af15",
+        "last_sync": "2021-01-07T09:18:19.525Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "df103e11-f960-44c3-a1f8-ac9f0ec9b005",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Komponente 12",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/43e05f20-f478-45b4-6288-74035bb5d4e1",
+        "id": "d928b7cf-aebf-4603-9fc6-cdc3e744c4b3",
+        "last_sync": "2021-01-07T09:18:19.525Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "d14e74bd-7d2a-433e-a661-534b80f59a6f",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Komponente 13",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/43e05f20-f478-45b4-6288-74035bb5d4e1",
+        "id": "2f5f0351-00be-473c-b65b-b1960a3659af",
+        "last_sync": "2021-01-07T09:18:19.525Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "7919dc32-8502-4e55-965d-effc60ec170d",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Komponente 14",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/43e05f20-f478-45b4-6288-74035bb5d4e1",
+        "id": "348a97ba-27be-4c4e-adbb-70621c4e7222",
+        "last_sync": "2021-01-07T09:18:19.525Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "48b1820d-ad22-4c26-acbd-4521cdc79d68",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Komponente 4",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/43e05f20-f478-45b4-6288-74035bb5d4e1",
+        "id": "d26a6f3e-4c53-483f-acb3-28b75b96b6a5",
+        "last_sync": "2021-01-07T09:18:19.525Z",
+        "sync": true
+      }
+    }
+  ]
+}

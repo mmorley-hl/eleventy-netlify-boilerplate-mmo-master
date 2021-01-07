@@ -1,0 +1,9 @@
+<svg id="Functional_Motion_Button" data-name="Functional Motion Button" xmlns="http://www.w3.org/2000/svg" width="411" height="104" viewBox="0 0 411 104">
+  <g id="background">
+    <rect id="Rechteck_1" data-name="Rechteck 1" width="411" height="104" fill="#66bbdb"/>
+  </g>
+  <g id="content" transform="translate(-108 -708)">
+    <path id="Polygon_1" data-name="Polygon 1" d="M11.5,0,23,20H0Z" transform="translate(471 749) rotate(90)" fill="#fff"/>
+    <text id="Functional_Motion_Button-2" data-name="Functional Motion Button" transform="translate(156 767)" fill="#fff" font-size="23" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="0" y="0">Functional Motion Button</tspan></text>
+  </g>
+</svg>

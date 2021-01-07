@@ -1,0 +1,22 @@
+<svg id="Komponente_1" data-name="Komponente 1" xmlns="http://www.w3.org/2000/svg" width="995" height="793" viewBox="0 0 995 793">
+  <g id="linear" transform="translate(-177 -230)">
+    <text id="Linear-2" data-name="Linear" transform="translate(982 355)" fill="#fff" font-size="33" font-family="Helvetica"><tspan x="0" y="0">Linear</tspan></text>
+    <rect id="linear-3" data-name="linear" width="75" height="75" transform="translate(177 230)" fill="#303030"/>
+  </g>
+  <g id="linear-4" data-name="linear" transform="translate(-177 -65)">
+    <text id="Ease_out" data-name="Ease out" transform="translate(982 355)" fill="#fff" font-size="33" font-family="Helvetica"><tspan x="0" y="0">Ease out</tspan></text>
+    <rect id="linear-5" data-name="linear" width="75" height="75" transform="translate(177 230)" fill="#303030"/>
+  </g>
+  <g id="linear-6" data-name="linear" transform="translate(-177 100)">
+    <text id="Ease_in" data-name="Ease in" transform="translate(976 355)" fill="#fff" font-size="33" font-family="Helvetica"><tspan x="0" y="0">Ease in</tspan></text>
+    <rect id="linear-7" data-name="linear" width="75" height="75" transform="translate(177 230)" fill="#303030"/>
+  </g>
+  <g id="linear-8" data-name="linear" transform="translate(-177 265)">
+    <text id="Ease_in_Ease_out" data-name="Ease in Ease out" transform="translate(922 355)" fill="#fff" font-size="33" font-family="Helvetica"><tspan x="0" y="0">Ease in Ease out</tspan></text>
+    <rect id="linear-9" data-name="linear" width="75" height="75" transform="translate(177 230)" fill="#303030"/>
+  </g>
+  <g id="linear-10" data-name="linear" transform="translate(-177 430)">
+    <text id="Spring" transform="translate(988 355)" fill="#fff" font-size="33" font-family="Helvetica"><tspan x="0" y="0">Spring</tspan></text>
+    <rect id="linear-11" data-name="linear" width="75" height="75" transform="translate(177 230)" fill="#303030"/>
+  </g>
+</svg>

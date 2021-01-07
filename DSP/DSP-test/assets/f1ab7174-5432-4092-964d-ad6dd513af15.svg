@@ -1,0 +1,9 @@
+<svg id="Komponente_11" data-name="Komponente 11" xmlns="http://www.w3.org/2000/svg" width="411" height="104" viewBox="0 0 411 104">
+  <g id="background">
+    <rect id="Rechteck_1" data-name="Rechteck 1" width="411" height="104" fill="#303030"/>
+  </g>
+  <g id="content" transform="translate(-108 -708)">
+    <path id="Polygon_1" data-name="Polygon 1" d="M11.5,0,23,20H0Z" transform="translate(428 749) rotate(90)" fill="#fff"/>
+    <text id="order_your_meal" data-name="order your meal" transform="translate(215 767)" fill="#fff" font-size="23" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="0" y="0">order your meal</tspan></text>
+  </g>
+</svg>

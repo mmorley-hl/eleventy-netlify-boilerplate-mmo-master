@@ -1,0 +1,41 @@
+<svg id="Komponente_13" data-name="Komponente 13" xmlns="http://www.w3.org/2000/svg" width="306" height="472" viewBox="0 0 306 472">
+  <g id="Gruppe_251" data-name="Gruppe 251" opacity="0.53">
+    <g id="Gruppe_25" data-name="Gruppe 25" transform="translate(-110 -271)">
+      <rect id="Rechteck_21" data-name="Rechteck 21" width="306" height="301" transform="translate(110 271)" fill="#1e1e1e"/>
+      <path id="Pfad_29" data-name="Pfad 29" d="M0,137S17.164,58.638,50.664,24.388,134,0,134,0" transform="translate(197.5 360.5)" fill="none" stroke="#707070" stroke-width="7"/>
+      <g id="Ellipse_17" data-name="Ellipse 17" transform="translate(325 348)" fill="#fff" stroke="#707070" stroke-width="1">
+        <circle cx="9.5" cy="9.5" r="9.5" stroke="none"/>
+        <circle cx="9.5" cy="9.5" r="9" fill="none"/>
+      </g>
+      <g id="Ellipse_18" data-name="Ellipse 18" transform="translate(188 488)" fill="#fff" stroke="#707070" stroke-width="1">
+        <circle cx="9.5" cy="9.5" r="9.5" stroke="none"/>
+        <circle cx="9.5" cy="9.5" r="9" fill="none"/>
+      </g>
+      <g id="Gruppe_23" data-name="Gruppe 23">
+        <line id="Linie_2" data-name="Linie 2" y1="38" x2="40" transform="matrix(-0.719, -0.695, 0.695, -0.719, 299.674, 383.383)" fill="none" stroke="#707070" stroke-width="1"/>
+        <line id="Linie_3" data-name="Linie 3" y1="50" x2="46" transform="translate(198.288 385.636) rotate(-1)" fill="none" stroke="#707070" stroke-width="1"/>
+        <g id="Ellipse_20" data-name="Ellipse 20" transform="matrix(-0.719, -0.695, 0.695, -0.719, 271.061, 364.788)" fill="#303030" stroke="#707070" stroke-width="1">
+          <circle cx="6" cy="6" r="6" stroke="none"/>
+          <circle cx="6" cy="6" r="5.5" fill="none"/>
+        </g>
+        <g id="Ellipse_19" data-name="Ellipse 19" transform="translate(192.549 429.242) rotate(-1)" fill="#303030" stroke="#707070" stroke-width="1">
+          <circle cx="6" cy="6" r="6" stroke="none"/>
+          <circle cx="6" cy="6" r="5.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <text id="Ease_in" data-name="Ease in" transform="translate(0 386)" fill="#fff" font-size="33" font-family="Helvetica"><tspan x="0" y="0">Ease in</tspan></text>
+    <text id="Use_when_Objects_enter_the_field_of_view_like_friction_and_gravity_" data-name="Use when Objects enter the field of view (like friction and gravity)" transform="translate(4 420)" fill="#707070" font-size="19" font-family="Helvetica"><tspan x="0" y="15">Use when Objects enter the field of </tspan><tspan x="0" y="38">view (like friction and gravity)</tspan></text>
+    <g id="Gruppe_29" data-name="Gruppe 29" transform="translate(415 918) rotate(180)">
+      <rect id="Rechteck_22" data-name="Rechteck 22" width="9" height="7" transform="translate(111 589)" fill="#fff"/>
+      <rect id="Rechteck_23" data-name="Rechteck 23" width="10" height="7" transform="translate(122 589)" fill="#fff"/>
+      <rect id="Rechteck_24" data-name="Rechteck 24" width="19" height="7" transform="translate(134 589)" fill="#fff"/>
+      <rect id="Rechteck_25" data-name="Rechteck 25" width="32" height="7" transform="translate(155 589)" fill="#fff"/>
+      <rect id="Rechteck_26" data-name="Rechteck 26" width="32" height="7" transform="translate(189 589)" fill="#fff"/>
+      <rect id="Rechteck_27" data-name="Rechteck 27" width="42" height="7" transform="translate(223 589)" fill="#fff"/>
+      <rect id="Rechteck_28" data-name="Rechteck 28" width="35" height="7" transform="translate(267 589)" fill="#fff"/>
+      <rect id="Rechteck_29" data-name="Rechteck 29" width="37" height="7" transform="translate(304 589)" fill="#fff"/>
+      <rect id="Rechteck_30" data-name="Rechteck 30" width="73" height="7" transform="translate(342 589)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
