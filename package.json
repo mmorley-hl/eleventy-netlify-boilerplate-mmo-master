@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gasseklopper"
+    "url": "https://github.com/mmorley-hl"
   },
   "author": {
     "name": "markus morley",
@@ -27,9 +27,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gasseklopper"
+    "url": "https://github.com/mmorley-hl"
   },
-  "homepage": "https://github.com/gasseklopper",
+  "homepage": "https://github.com/mmorley-hl",
   "devDependencies": {
     "@11ty/eleventy": "^0.11.1",
     "luxon": "^1.25.0",
